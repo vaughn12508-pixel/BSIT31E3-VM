@@ -1,0 +1,68 @@
+C:\Users\STUDENT\Desktop\BUENO\New folder\httpserver\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\STUDENT\Desktop\BUENO\New folder\httpserver\bin\Debug\net9.0\appsettings.json
+C:\Users\STUDENT\Desktop\BUENO\New folder\httpserver\bin\Debug\net9.0\httpserver.staticwebassets.endpoints.json
+C:\Users\STUDENT\Desktop\BUENO\New folder\httpserver\bin\Debug\net9.0\httpserver.exe
+C:\Users\STUDENT\Desktop\BUENO\New folder\httpserver\bin\Debug\net9.0\httpserver.deps.json
+C:\Users\STUDENT\Desktop\BUENO\New folder\httpserver\bin\Debug\net9.0\httpserver.runtimeconfig.json
+C:\Users\STUDENT\Desktop\BUENO\New folder\httpserver\bin\Debug\net9.0\httpserver.dll
+C:\Users\STUDENT\Desktop\BUENO\New folder\httpserver\bin\Debug\net9.0\httpserver.pdb
+C:\Users\STUDENT\Desktop\BUENO\New folder\httpserver\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\STUDENT\Desktop\BUENO\New folder\httpserver\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\STUDENT\Desktop\BUENO\New folder\httpserver\obj\Debug\net9.0\httpserver.csproj.AssemblyReference.cache
+C:\Users\STUDENT\Desktop\BUENO\New folder\httpserver\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\STUDENT\Desktop\BUENO\New folder\httpserver\obj\Debug\net9.0\httpserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT\Desktop\BUENO\New folder\httpserver\obj\Debug\net9.0\httpserver.AssemblyInfoInputs.cache
+C:\Users\STUDENT\Desktop\BUENO\New folder\httpserver\obj\Debug\net9.0\httpserver.AssemblyInfo.cs
+C:\Users\STUDENT\Desktop\BUENO\New folder\httpserver\obj\Debug\net9.0\httpserver.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Desktop\BUENO\New folder\httpserver\obj\Debug\net9.0\httpserver.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\STUDENT\Desktop\BUENO\New folder\httpserver\obj\Debug\net9.0\httpserver.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\STUDENT\Desktop\BUENO\New folder\httpserver\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\STUDENT\Desktop\BUENO\New folder\httpserver\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\STUDENT\Desktop\BUENO\New folder\httpserver\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\STUDENT\Desktop\BUENO\New folder\httpserver\obj\Debug\net9.0\scopedcss\bundle\httpserver.styles.css
+C:\Users\STUDENT\Desktop\BUENO\New folder\httpserver\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\STUDENT\Desktop\BUENO\New folder\httpserver\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\STUDENT\Desktop\BUENO\New folder\httpserver\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\STUDENT\Desktop\BUENO\New folder\httpserver\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\STUDENT\Desktop\BUENO\New folder\httpserver\obj\Debug\net9.0\swae.build.ex.cache
+C:\Users\STUDENT\Desktop\BUENO\New folder\httpserver\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\STUDENT\Desktop\BUENO\New folder\httpserver\obj\Debug\net9.0\httpserver.csproj.Up2Date
+C:\Users\STUDENT\Desktop\BUENO\New folder\httpserver\obj\Debug\net9.0\httpserver.dll
+C:\Users\STUDENT\Desktop\BUENO\New folder\httpserver\obj\Debug\net9.0\refint\httpserver.dll
+C:\Users\STUDENT\Desktop\BUENO\New folder\httpserver\obj\Debug\net9.0\httpserver.pdb
+C:\Users\STUDENT\Desktop\BUENO\New folder\httpserver\obj\Debug\net9.0\httpserver.genruntimeconfig.cache
+C:\Users\STUDENT\Desktop\BUENO\New folder\httpserver\obj\Debug\net9.0\ref\httpserver.dll
+C:\Users\STUDENT\source\repos\canua\httpserver\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\STUDENT\source\repos\canua\httpserver\bin\Debug\net9.0\appsettings.json
+C:\Users\STUDENT\source\repos\canua\httpserver\bin\Debug\net9.0\httpserver.staticwebassets.endpoints.json
+C:\Users\STUDENT\source\repos\canua\httpserver\bin\Debug\net9.0\httpserver.exe
+C:\Users\STUDENT\source\repos\canua\httpserver\bin\Debug\net9.0\httpserver.deps.json
+C:\Users\STUDENT\source\repos\canua\httpserver\bin\Debug\net9.0\httpserver.runtimeconfig.json
+C:\Users\STUDENT\source\repos\canua\httpserver\bin\Debug\net9.0\httpserver.dll
+C:\Users\STUDENT\source\repos\canua\httpserver\bin\Debug\net9.0\httpserver.pdb
+C:\Users\STUDENT\source\repos\canua\httpserver\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\STUDENT\source\repos\canua\httpserver\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\STUDENT\source\repos\canua\httpserver\obj\Debug\net9.0\httpserver.csproj.AssemblyReference.cache
+C:\Users\STUDENT\source\repos\canua\httpserver\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\STUDENT\source\repos\canua\httpserver\obj\Debug\net9.0\httpserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT\source\repos\canua\httpserver\obj\Debug\net9.0\httpserver.AssemblyInfoInputs.cache
+C:\Users\STUDENT\source\repos\canua\httpserver\obj\Debug\net9.0\httpserver.AssemblyInfo.cs
+C:\Users\STUDENT\source\repos\canua\httpserver\obj\Debug\net9.0\httpserver.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\source\repos\canua\httpserver\obj\Debug\net9.0\httpserver.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\STUDENT\source\repos\canua\httpserver\obj\Debug\net9.0\httpserver.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\STUDENT\source\repos\canua\httpserver\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\STUDENT\source\repos\canua\httpserver\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\STUDENT\source\repos\canua\httpserver\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\STUDENT\source\repos\canua\httpserver\obj\Debug\net9.0\scopedcss\bundle\httpserver.styles.css
+C:\Users\STUDENT\source\repos\canua\httpserver\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\STUDENT\source\repos\canua\httpserver\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\STUDENT\source\repos\canua\httpserver\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\STUDENT\source\repos\canua\httpserver\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\STUDENT\source\repos\canua\httpserver\obj\Debug\net9.0\swae.build.ex.cache
+C:\Users\STUDENT\source\repos\canua\httpserver\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\STUDENT\source\repos\canua\httpserver\obj\Debug\net9.0\httpserver.csproj.Up2Date
+C:\Users\STUDENT\source\repos\canua\httpserver\obj\Debug\net9.0\httpserver.dll
+C:\Users\STUDENT\source\repos\canua\httpserver\obj\Debug\net9.0\refint\httpserver.dll
+C:\Users\STUDENT\source\repos\canua\httpserver\obj\Debug\net9.0\httpserver.pdb
+C:\Users\STUDENT\source\repos\canua\httpserver\obj\Debug\net9.0\httpserver.genruntimeconfig.cache
+C:\Users\STUDENT\source\repos\canua\httpserver\obj\Debug\net9.0\ref\httpserver.dll

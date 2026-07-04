@@ -1,0 +1,71 @@
+C:\Users\ninal\source\repos\HttpClientStarter\HttpClientStarter\bin\Debug\net10.0\HttpClientStarter.exe
+C:\Users\ninal\source\repos\HttpClientStarter\HttpClientStarter\bin\Debug\net10.0\HttpClientStarter.deps.json
+C:\Users\ninal\source\repos\HttpClientStarter\HttpClientStarter\bin\Debug\net10.0\HttpClientStarter.runtimeconfig.json
+C:\Users\ninal\source\repos\HttpClientStarter\HttpClientStarter\bin\Debug\net10.0\HttpClientStarter.dll
+C:\Users\ninal\source\repos\HttpClientStarter\HttpClientStarter\bin\Debug\net10.0\HttpClientStarter.pdb
+C:\Users\ninal\source\repos\HttpClientStarter\HttpClientStarter\obj\Debug\net10.0\HttpClientStarter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninal\source\repos\HttpClientStarter\HttpClientStarter\obj\Debug\net10.0\HttpClientStarter.AssemblyInfoInputs.cache
+C:\Users\ninal\source\repos\HttpClientStarter\HttpClientStarter\obj\Debug\net10.0\HttpClientStarter.AssemblyInfo.cs
+C:\Users\ninal\source\repos\HttpClientStarter\HttpClientStarter\obj\Debug\net10.0\HttpClientStarter.csproj.CoreCompileInputs.cache
+C:\Users\ninal\source\repos\HttpClientStarter\HttpClientStarter\obj\Debug\net10.0\HttpClientStarter.dll
+C:\Users\ninal\source\repos\HttpClientStarter\HttpClientStarter\obj\Debug\net10.0\refint\HttpClientStarter.dll
+C:\Users\ninal\source\repos\HttpClientStarter\HttpClientStarter\obj\Debug\net10.0\HttpClientStarter.pdb
+C:\Users\ninal\source\repos\HttpClientStarter\HttpClientStarter\obj\Debug\net10.0\HttpClientStarter.genruntimeconfig.cache
+C:\Users\ninal\source\repos\HttpClientStarter\HttpClientStarter\obj\Debug\net10.0\ref\HttpClientStarter.dll
+C:\Users\STUDENT\Desktop\BUENO\SAKEN\HttpClientStarter\bin\Debug\net10.0\HttpClientStarter.exe
+C:\Users\STUDENT\Desktop\BUENO\SAKEN\HttpClientStarter\bin\Debug\net10.0\HttpClientStarter.deps.json
+C:\Users\STUDENT\Desktop\BUENO\SAKEN\HttpClientStarter\bin\Debug\net10.0\HttpClientStarter.runtimeconfig.json
+C:\Users\STUDENT\Desktop\BUENO\SAKEN\HttpClientStarter\bin\Debug\net10.0\HttpClientStarter.dll
+C:\Users\STUDENT\Desktop\BUENO\SAKEN\HttpClientStarter\bin\Debug\net10.0\HttpClientStarter.pdb
+C:\Users\STUDENT\Desktop\BUENO\SAKEN\HttpClientStarter\obj\Debug\net10.0\HttpClientStarter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT\Desktop\BUENO\SAKEN\HttpClientStarter\obj\Debug\net10.0\HttpClientStarter.AssemblyInfoInputs.cache
+C:\Users\STUDENT\Desktop\BUENO\SAKEN\HttpClientStarter\obj\Debug\net10.0\HttpClientStarter.AssemblyInfo.cs
+C:\Users\STUDENT\Desktop\BUENO\SAKEN\HttpClientStarter\obj\Debug\net10.0\HttpClientStarter.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Desktop\BUENO\SAKEN\HttpClientStarter\obj\Debug\net10.0\HttpClientStarter.dll
+C:\Users\STUDENT\Desktop\BUENO\SAKEN\HttpClientStarter\obj\Debug\net10.0\refint\HttpClientStarter.dll
+C:\Users\STUDENT\Desktop\BUENO\SAKEN\HttpClientStarter\obj\Debug\net10.0\HttpClientStarter.pdb
+C:\Users\STUDENT\Desktop\BUENO\SAKEN\HttpClientStarter\obj\Debug\net10.0\HttpClientStarter.genruntimeconfig.cache
+C:\Users\STUDENT\Desktop\BUENO\SAKEN\HttpClientStarter\obj\Debug\net10.0\ref\HttpClientStarter.dll
+C:\Users\STUDENT\Desktop\BUENO\New folder\HttpClientStarter\bin\Debug\net10.0\HttpClientStarter.exe
+C:\Users\STUDENT\Desktop\BUENO\New folder\HttpClientStarter\bin\Debug\net10.0\HttpClientStarter.deps.json
+C:\Users\STUDENT\Desktop\BUENO\New folder\HttpClientStarter\bin\Debug\net10.0\HttpClientStarter.runtimeconfig.json
+C:\Users\STUDENT\Desktop\BUENO\New folder\HttpClientStarter\bin\Debug\net10.0\HttpClientStarter.dll
+C:\Users\STUDENT\Desktop\BUENO\New folder\HttpClientStarter\bin\Debug\net10.0\HttpClientStarter.pdb
+C:\Users\STUDENT\Desktop\BUENO\New folder\HttpClientStarter\obj\Debug\net10.0\HttpClientStarter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT\Desktop\BUENO\New folder\HttpClientStarter\obj\Debug\net10.0\HttpClientStarter.AssemblyInfoInputs.cache
+C:\Users\STUDENT\Desktop\BUENO\New folder\HttpClientStarter\obj\Debug\net10.0\HttpClientStarter.AssemblyInfo.cs
+C:\Users\STUDENT\Desktop\BUENO\New folder\HttpClientStarter\obj\Debug\net10.0\HttpClientStarter.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Desktop\BUENO\New folder\HttpClientStarter\obj\Debug\net10.0\HttpClientStarter.dll
+C:\Users\STUDENT\Desktop\BUENO\New folder\HttpClientStarter\obj\Debug\net10.0\refint\HttpClientStarter.dll
+C:\Users\STUDENT\Desktop\BUENO\New folder\HttpClientStarter\obj\Debug\net10.0\HttpClientStarter.pdb
+C:\Users\STUDENT\Desktop\BUENO\New folder\HttpClientStarter\obj\Debug\net10.0\HttpClientStarter.genruntimeconfig.cache
+C:\Users\STUDENT\Desktop\BUENO\New folder\HttpClientStarter\obj\Debug\net10.0\ref\HttpClientStarter.dll
+C:\Users\STUDENT\source\repos\canua\HttpClientStarter\bin\Debug\net10.0\HttpClientStarter.exe
+C:\Users\STUDENT\source\repos\canua\HttpClientStarter\bin\Debug\net10.0\HttpClientStarter.deps.json
+C:\Users\STUDENT\source\repos\canua\HttpClientStarter\bin\Debug\net10.0\HttpClientStarter.runtimeconfig.json
+C:\Users\STUDENT\source\repos\canua\HttpClientStarter\bin\Debug\net10.0\HttpClientStarter.dll
+C:\Users\STUDENT\source\repos\canua\HttpClientStarter\bin\Debug\net10.0\HttpClientStarter.pdb
+C:\Users\STUDENT\source\repos\canua\HttpClientStarter\obj\Debug\net10.0\HttpClientStarter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT\source\repos\canua\HttpClientStarter\obj\Debug\net10.0\HttpClientStarter.AssemblyInfoInputs.cache
+C:\Users\STUDENT\source\repos\canua\HttpClientStarter\obj\Debug\net10.0\HttpClientStarter.AssemblyInfo.cs
+C:\Users\STUDENT\source\repos\canua\HttpClientStarter\obj\Debug\net10.0\HttpClientStarter.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\source\repos\canua\HttpClientStarter\obj\Debug\net10.0\HttpClientStarter.dll
+C:\Users\STUDENT\source\repos\canua\HttpClientStarter\obj\Debug\net10.0\refint\HttpClientStarter.dll
+C:\Users\STUDENT\source\repos\canua\HttpClientStarter\obj\Debug\net10.0\HttpClientStarter.pdb
+C:\Users\STUDENT\source\repos\canua\HttpClientStarter\obj\Debug\net10.0\HttpClientStarter.genruntimeconfig.cache
+C:\Users\STUDENT\source\repos\canua\HttpClientStarter\obj\Debug\net10.0\ref\HttpClientStarter.dll
+C:\Users\User\Desktop\ACT\BSIT-31E3_PRELIMS_A3_Billena_Dominic\HttpClientStarter\bin\Debug\net10.0\HttpClientStarter.exe
+C:\Users\User\Desktop\ACT\BSIT-31E3_PRELIMS_A3_Billena_Dominic\HttpClientStarter\bin\Debug\net10.0\HttpClientStarter.deps.json
+C:\Users\User\Desktop\ACT\BSIT-31E3_PRELIMS_A3_Billena_Dominic\HttpClientStarter\bin\Debug\net10.0\HttpClientStarter.runtimeconfig.json
+C:\Users\User\Desktop\ACT\BSIT-31E3_PRELIMS_A3_Billena_Dominic\HttpClientStarter\bin\Debug\net10.0\HttpClientStarter.dll
+C:\Users\User\Desktop\ACT\BSIT-31E3_PRELIMS_A3_Billena_Dominic\HttpClientStarter\bin\Debug\net10.0\HttpClientStarter.pdb
+C:\Users\User\Desktop\ACT\BSIT-31E3_PRELIMS_A3_Billena_Dominic\HttpClientStarter\obj\Debug\net10.0\HttpClientStarter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ACT\BSIT-31E3_PRELIMS_A3_Billena_Dominic\HttpClientStarter\obj\Debug\net10.0\HttpClientStarter.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ACT\BSIT-31E3_PRELIMS_A3_Billena_Dominic\HttpClientStarter\obj\Debug\net10.0\HttpClientStarter.AssemblyInfo.cs
+C:\Users\User\Desktop\ACT\BSIT-31E3_PRELIMS_A3_Billena_Dominic\HttpClientStarter\obj\Debug\net10.0\HttpClientStarter.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ACT\BSIT-31E3_PRELIMS_A3_Billena_Dominic\HttpClientStarter\obj\Debug\net10.0\HttpClientStarter.sourcelink.json
+C:\Users\User\Desktop\ACT\BSIT-31E3_PRELIMS_A3_Billena_Dominic\HttpClientStarter\obj\Debug\net10.0\HttpClientStarter.dll
+C:\Users\User\Desktop\ACT\BSIT-31E3_PRELIMS_A3_Billena_Dominic\HttpClientStarter\obj\Debug\net10.0\refint\HttpClientStarter.dll
+C:\Users\User\Desktop\ACT\BSIT-31E3_PRELIMS_A3_Billena_Dominic\HttpClientStarter\obj\Debug\net10.0\HttpClientStarter.pdb
+C:\Users\User\Desktop\ACT\BSIT-31E3_PRELIMS_A3_Billena_Dominic\HttpClientStarter\obj\Debug\net10.0\HttpClientStarter.genruntimeconfig.cache
+C:\Users\User\Desktop\ACT\BSIT-31E3_PRELIMS_A3_Billena_Dominic\HttpClientStarter\obj\Debug\net10.0\ref\HttpClientStarter.dll
